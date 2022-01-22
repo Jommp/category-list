@@ -1,4 +1,6 @@
-# category-list
+# Category List
+
+Project that displays a list of categories from an API, has a search input to search for a specific category.
 
 ## Project setup
 ```
